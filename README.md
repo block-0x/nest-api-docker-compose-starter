@@ -42,3 +42,16 @@ Hello World!
     "name": "Alex"
 }
 ```
+
+### nest js generate commands
+
+```
+nest generate module test
+nest generate service test
+nest generate controller test
+nest generate interface test
+```
+
+### NestJS の基礎概念の図解と要約
+
+https://zenn.dev/morinokami/articles/nestjs-overview#interceptors
